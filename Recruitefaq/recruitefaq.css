@@ -1,0 +1,13 @@
+.accordion-item,
+.accordion-header {
+  border: none !important;
+  padding: 0px !important;
+  background-color: transparent !important;
+  padding: 0 !important;
+  margin-bottom: 50px;
+  width: 100%;
+}
+.accordion-collapse:after {
+  border: none !important;
+  background-color: transparent !important;
+}
